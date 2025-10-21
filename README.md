@@ -7,65 +7,53 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Academic & Research Projects
 
-### 🏢 [Enterprise Insurance Platform](https://github.com/krishnagopal596/enterprise-insurance-platform)
-**Cloud-native microservices platform** for insurance policy management
-- **Spring Boot 3.x** microservices with **OAuth2/JWT** authentication
-- **React 18** + **TypeScript** with **Redux Toolkit** state management
-- **AWS EKS** deployment with **Docker** containerization
-- **Apache Kafka** for event-driven architecture
-- **PostgreSQL** + **Redis** caching with **99.9% uptime**
-- **Prometheus/Grafana** monitoring with **circuit breakers**
-
-### 🤖 [Intelligent Motion Analyzer](https://github.com/krishnagopal596/intelligent-motion-analyzer)
-**Advanced computer vision system** for real-time human motion analysis
-- **MediaPipe** + **OpenCV** for 33-point pose estimation
-- **TensorFlow** models for biomechanical assessment
-- **Real-time gait analysis** with injury risk prediction
-- **Multi-person tracking** with 3D pose reconstruction
-- **WebSocket** streaming with **React** visualization
-- **Sports analytics** and **healthcare applications**
-
-### ☁️ [Cloud-Native DevOps Platform](https://github.com/krishnagopal596/cloud-native-devops-platform)
-**Comprehensive DevOps platform** for automated CI/CD and infrastructure
-- **Terraform** infrastructure as code for **AWS/Azure**
-- **Kubernetes** orchestration with **Helm** charts
-- **GitHub Actions** CI/CD with **ArgoCD** GitOps
-- **Prometheus/Grafana** monitoring with **ELK** stack
-- **Security scanning** with **Trivy** and **SonarQube**
-- **Multi-cloud** disaster recovery and cost optimization
-
-### 🔐 [Secure Authentication Platform](https://github.com/krishnagopal596/secure-auth-platform)
-**Enterprise-grade security platform** with advanced authentication
-- **OAuth2/OpenID Connect** authorization server
-- **Multi-factor authentication** (TOTP, SMS, Biometric)
-- **AES-256/RSA-4096** encryption with **Bouncy Castle**
-- **JWT** with refresh token rotation
-- **Zero-trust architecture** with continuous authentication
-- **GDPR/HIPAA/SOC2** compliance features
-
-### 🥊 [Real-Steel](https://github.com/krishnagopal596/Real-Steel)
-**Perceptive motion retargeting system** for humanoid robotics
-- **3D pose estimation** with **MediaPipe**
-- **Custom inverse kinematics** solver
-- **Real-time MuJoCo** simulations
-- **Motion smoothing** and **CSV logging**
+### 🥊 [Real-Steel Humanoid Robot](https://github.com/krishnagopal596/Real-Steel-Humanoid-Robot)
+**Perceptive motion retargeting system** for humanoid robotics research
+- **3D pose estimation** with **MediaPipe** and **OpenCV**
+- **Custom inverse kinematics** solver for 14-DOF humanoid
+- **Real-time MuJoCo** physics simulations
+- **Motion smoothing** algorithms and **CSV logging**
+- **80% accuracy** in motion pattern recognition
+- **60% reduction** in motion jitter through advanced filtering
 
 ### 🔐 [Secure Cryptosystem](https://github.com/krishnagopal596/Crypto-Hash)
 **Multi-layered encryption system** with **IEEE publication**
-- **SHA-256**, **RSA**, and **AES** encryption
-- **Advanced cryptographic** algorithms
+- **SHA-256**, **RSA**, and **AES** encryption algorithms
+- **Advanced cryptographic** research implementation
+- **Key generation** and **integrity checks**
 - 📄 **[IEEE Publication - Secure Hash Algorithm](https://ieeexplore.ieee.org/document/9792989)**
+- **Research-grade** security analysis and testing
+
+### 🧠 [Augmented Reality E-Learning](https://github.com/krishnagopal596/Augmented-Reality)
+**Browser-based AR** for educational applications
+- **React** + **Three.js** for **WebGL/WebXR** integration
+- **glTF model** placement in real scenes
+- **Interactive annotations** and asset optimization
+- **E-Learning** research for classroom applications
+- **Cross-platform** AR without native app requirements
+
+### 🛰️ [ROS2 TurtleBot3 Simulation](https://github.com/krishnagopal596/ros2-turtlebot3-sim)
+**Dockerized ROS2 workspace** for robotics research
+- **ROS 2** navigation and control experiments
+- **Docker** containerization for reproducible research
+- **TurtleBot3** simulation without hardware requirements
+- **Research iteration** and demonstration capabilities
 
 ---
 
-## 🧪 Academic & Research Projects
+## 🧪 Research Focus Areas
 
-- 🧠 **[AR Entity Visualizer](https://github.com/krishnagopal596/Augmented-Reality)**: Marker-based AR using **JavaScript** + **AR.js**
-- 🛰️ **RFID-Encryption System**: Secure RFID data transmission for embedded applications
-- 🔬 **Computer Vision Research**: Motion analysis and pose estimation algorithms
-- 📊 **Machine Learning Models**: Predictive analytics and pattern recognition
+### **Computer Vision & Robotics**
+- 🤖 **Humanoid Robot Motion Retargeting**: Real-time pose estimation and inverse kinematics
+- 🎯 **Motion Analysis Algorithms**: Gait analysis and biomechanical assessment
+- 📊 **Machine Learning Models**: Action classification and pattern recognition
+
+### **Emerging Technologies**
+- 🧠 **Augmented Reality**: WebXR-based educational applications
+- 🛰️ **ROS2 Robotics**: Navigation and control system research
+- 🔐 **Cryptographic Systems**: Multi-layered encryption research
 
 ---
 
@@ -94,40 +82,32 @@ PostgreSQL, MySQL, MongoDB, Oracle, Redis, Database Design, Query Optimization, 
 
 ---
 
-## 📊 Professional Experience
+## 🎓 Academic Journey
 
-### **State Farm Insurance** | Java Full Stack Developer | *June 2024 - Present*
-- **Enterprise microservices** platform with **Spring Boot** and **Hibernate/JPA**
-- **React 18** + **TypeScript** with **Redux Toolkit** for state management
-- **Azure AKS** deployment with **Docker** containerization
-- **Apache Kafka** for event-driven architecture and real-time processing
-- **AWS CloudWatch** monitoring with **99.9% uptime** SLA
-- **Performance optimization** reducing page load times by **45%**
+### **Iowa State University** | Master of Science in Computer Science | *Aug 2023 - Aug 2025*
+- **GPA**: 3.7/4.0 with **Global Scholars Award** for Graduate Excellence
+- **Research Focus**: Computer Vision, Motion Analysis, and Cryptographic Systems
+- **Coursework**: Distributed Systems, Cloud Computing, Machine Learning, AI, Database Systems
+- **Leadership**: Student Assistant Manager at ISU Dining Services
 
-### **ADP** | Java Backend Developer | *June 2022 - Aug 2023*
-- **Spring Boot microservices** for ERP modernization
-- **Confluent Kafka** for asynchronous messaging
-- **React** interfaces with **TypeScript** and modern hooks
-- **MongoDB** optimization and **Redis** caching strategies
-- **CI/CD pipeline** optimization with **Jenkins** and **Kubernetes**
-
-### **Life Insurance Corporation** | Java Full Stack Developer | *July 2020 - May 2022*
-- **ERP modules** for policy and payment processing
-- **Angular** applications with **Bootstrap** responsive design
-- **Oracle** database with **Hibernate** ORM
-- **Spring Security** for authentication and authorization
+### **Research Contributions**
+- 📄 **IEEE Publication**: "Secure Hash Algorithm Using SHA-256, RSA, and AES"
+- 🤖 **Robotics Research**: Humanoid motion retargeting and inverse kinematics
+- 🔐 **Cryptographic Research**: Multi-layered encryption and security analysis
+- 🧠 **AR/VR Research**: WebXR-based educational applications and cross-platform development
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Academic Achievements & Recognition
 
-- 🎓 **Global Scholars Award** for Graduate Excellence
+- 🎓 **Global Scholars Award** for Graduate Excellence at Iowa State University
 - 📄 **IEEE Published Researcher** - [Secure Hash Algorithm Using SHA-256, RSA, and AES](https://ieeexplore.ieee.org/document/9792989)
-- 🏢 **4+ Years** of enterprise software development experience
-- ☁️ **Cloud-native** application development expertise
-- 🔐 **Security-first** development approach
-- 📈 **Performance optimization** and **scalability** focus
 - 🤖 **Robotics Innovation** - Real-time motion retargeting for humanoid robots
+- 🔬 **Research Excellence** - Computer vision and motion analysis algorithms
+- 🧠 **AR/VR Research** - WebXR-based educational applications
+- 🔐 **Cryptographic Research** - Multi-layered encryption systems
+- 📊 **Academic Performance** - 3.7/4.0 GPA in Computer Science
+- 🏢 **Industry Experience** - 4+ years in enterprise software development
 
 ---
 
