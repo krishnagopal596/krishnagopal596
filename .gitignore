@@ -1,0 +1,7 @@
+# LaTeX resume files - keep private
+*.tex
+*.aux
+*.log
+*.out
+*.synctex.gz
+

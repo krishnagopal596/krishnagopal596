@@ -1,9 +1,25 @@
 # 👋 Hi, I'm Krishna Gopal Madhavaram
 
 🎓 **MS in Computer Science** @ Iowa State University (GPA: 3.7/4.0)  
-💻 **Full-Stack Java Developer** • ☁️ **Cloud-Native Architect** • 🤖 **AI/ML Engineer**  
-💼 **State Farm Insurance** | **ADP** | **Life Insurance Corporation**  
+💻 **Full-Stack Java Developer** • ☁️ **Cloud-Native Architect** • 🤖 **GenAI/LLM Engineer**  
+💼 **State Farm Insurance** | **ADP** | **LTI Mindtree**  
 🏆 **Global Scholars Award** • **IEEE Published Researcher**
+
+---
+
+## 💼 Recent Projects
+
+### 🤖 [ChatBot](https://github.com/krishnagopal596/ChatBot)
+Enterprise chatbot built with Spring Boot and Spring AI
+- Spring Boot 3.5.8 with Spring AI integration
+- HuggingFace model integration
+- Extensible architecture for enterprise use
+
+### ✈️ [Flight-Tracking-System](https://github.com/krishnagopal596/Flight-Tracking-System)
+Console-based Java application for flight search and booking
+- Flight search by destination and date
+- Booking management system
+- Reservation tracking
 
 ---
 
@@ -74,6 +90,9 @@ React, Angular, TypeScript, HTML5, CSS3, Redux, Material-UI, Progressive Web App
 ### **AI/ML & Computer Vision**
 TensorFlow, OpenCV, MediaPipe, Scikit-learn, Computer Vision, NLP, Motion Recognition, Inverse Kinematics
 
+### **GenAI & LLM**
+Spring AI, LangChain4j, RAG (Retrieval-Augmented Generation), Vector Embeddings, OpenAI, Amazon Bedrock, GPT-4, Claude, Prompt Engineering
+
 ### **Security & Cryptography**
 OAuth2, JWT, Spring Security, BCrypt, AES-256, RSA-4096, ECC, Multi-factor Authentication, Zero-Trust Architecture
 
@@ -123,9 +142,9 @@ PostgreSQL, MySQL, MongoDB, Oracle, Redis, Database Design, Query Optimization, 
 
 📧 **Email**: krishnagopal596@gmail.com  
 🔗 **LinkedIn**: [krishna-gopal-madhavaram](https://linkedin.com/in/krishna-gopal-madhavaram)  
-💼 **Resume**: [Download PDF](https://github.com/krishnagopal596/Resume_JAVA_Experience_II.pdf)  
 🌐 **Portfolio**: [krishnagopal596.github.io](https://krishnagopal596.github.io/Linkedin-Portfolio/)  
-📄 **Publication**: [IEEE Paper - Secure Hash Algorithm](https://ieeexplore.ieee.org/document/9792989)
+📄 **Publication**: [IEEE Paper - Secure Hash Algorithm](https://ieeexplore.ieee.org/document/9792989)  
+💼 **Resume**: [Download PDF](https://github.com/krishnagopal596/Resume_JAVA_Experience_II.pdf)
 
 ---
 
