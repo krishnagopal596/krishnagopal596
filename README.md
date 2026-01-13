@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Krishna Gopal Madhavaram
 
+## Headline
+**Selenium | Playwright | Spring Boot | Angular | React | Java | TypeScript | API Testing | CI/CD**
+
 🎓 **MS in Computer Science** @ Iowa State University (GPA: 3.7/4.0)  
 💻 **Full-Stack Java Developer** • ☁️ **Cloud-Native Architect** • 🤖 **GenAI/LLM Engineer**  
 💼 **State Farm Insurance** | **ADP** | **LTI Mindtree**  
@@ -7,19 +10,28 @@
 
 ---
 
-## 💼 Recent Projects
+## About / Summary
 
-### 🤖 [ChatBot](https://github.com/krishnagopal596/ChatBot)
-Enterprise chatbot built with Spring Boot and Spring AI
-- Spring Boot 3.5.8 with Spring AI integration
-- HuggingFace model integration
-- Extensible architecture for enterprise use
+Building and testing enterprise applications using **Selenium**, **Playwright**, **Spring Boot**, **Angular**, **React**, **Java**, **TypeScript**, and **API testing** tools across insurance, payroll, and ERP domains. **Master of Science in Computer Science** from **Iowa State University** (GPA: 3.7/4.0). Currently at **State Farm Insurance**.
 
-### ✈️ [Flight-Tracking-System](https://github.com/krishnagopal596/Flight-Tracking-System)
-Console-based Java application for flight search and booking
-- Flight search by destination and date
-- Booking management system
-- Reservation tracking
+Open to connecting with professionals in software development and testing.
+
+---
+
+## 💼 Professional Experience
+
+### QA Automation Engineer at State Farm Insurance
+**June 2024 - Present** | Bloomington, Illinois, United States
+
+---
+
+### QA Automation Engineer/SDET at ADP
+**June 2022 - August 2023** | Hyderabad, Telangana, India
+
+---
+
+### QA/Selenium Automation Engineer at LTI Mindtree
+**January 2020 - May 2022** | Hyderabad, Telangana, India
 
 ---
 
@@ -50,12 +62,12 @@ Console-based Java application for flight search and booking
 - **E-Learning** research for classroom applications
 - **Cross-platform** AR without native app requirements
 
-### 🛰️ [ROS2 TurtleBot3 Simulation](https://github.com/krishnagopal596/ros2-turtlebot3-sim)
-**Dockerized ROS2 workspace** for robotics research
-- **ROS 2** navigation and control experiments
-- **Docker** containerization for reproducible research
-- **TurtleBot3** simulation without hardware requirements
-- **Research iteration** and demonstration capabilities
+### 🤖 [ChatBot](https://github.com/krishnagopal596/ChatBot)
+Enterprise chatbot built with Spring Boot and Spring AI
+- Spring Boot 3.5.8 with Spring AI integration
+- HuggingFace model integration
+- Extensible architecture for enterprise use
+
 
 ---
 
@@ -75,6 +87,9 @@ Console-based Java application for flight search and booking
 
 ## 🛠️ Technical Expertise
 
+### **Core Skills (LinkedIn)**
+Java | Spring Boot | Selenium WebDriver | Playwright | Angular | React | TestNG | Cucumber | TypeScript | JavaScript | Python | API Testing | REST Assured | Postman | Microservices | CI/CD | Jenkins | Docker | Kubernetes | PostgreSQL | Oracle | MySQL | MongoDB | AWS | Azure | Agile/Scrum | JIRA
+
 ### **Programming Languages**
 Java, Python, JavaScript, TypeScript, SQL, C++, Ruby
 
@@ -86,6 +101,9 @@ AWS (EC2, S3, RDS, Lambda, EKS), Azure (AKS, App Service), Docker, Kubernetes, T
 
 ### **Frontend Technologies**
 React, Angular, TypeScript, HTML5, CSS3, Redux, Material-UI, Progressive Web Apps
+
+### **Testing & QA**
+Selenium WebDriver, Playwright, TestNG, Cucumber, REST Assured, Postman, API Testing, CI/CD
 
 ### **AI/ML & Computer Vision**
 TensorFlow, OpenCV, MediaPipe, Scikit-learn, Computer Vision, NLP, Motion Recognition, Inverse Kinematics
@@ -101,9 +119,11 @@ PostgreSQL, MySQL, MongoDB, Oracle, Redis, Database Design, Query Optimization, 
 
 ---
 
-## 🎓 Academic Journey
+## 🎓 Education
 
-### **Iowa State University** | Master of Science in Computer Science | *Aug 2023 - Aug 2025*
+### **Iowa State University** | Ames, Iowa
+**Master of Science in Computer Science** | August 2023 - August 2025 | GPA: 3.7/4.0
+
 - **GPA**: 3.7/4.0 with **Global Scholars Award** for Graduate Excellence
 - **Research Focus**: Computer Vision, Motion Analysis, and Cryptographic Systems
 - **Coursework**: Distributed Systems, Cloud Computing, Machine Learning, AI, Database Systems
