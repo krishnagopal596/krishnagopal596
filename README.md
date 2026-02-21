@@ -4,7 +4,7 @@ Hey! I'm just a dev who likes building stuff. Started with basic things like cal
 
 ---
 
-## What I've Been Building
+## What I’m Exploring
 
 - 🎓 Did MS in Computer Science at Iowa State
 - 🧪 Played with testing automation (Selenium, Playwright) 
