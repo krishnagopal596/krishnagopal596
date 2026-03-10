@@ -1,46 +1,75 @@
-# 👋 Hey, I'm Krishna
+# 👋 Hi, I'm Krishna
 
-Hey! I'm just a dev who likes building stuff. Started with basic things like calculators and URL shorteners, messed around with security and encryption, built some web apps, then got into robotics and AI chatbots. Pretty much learning by building cool things on GitHub.
+Software Engineer focused on building **scalable backend systems, distributed services, and intelligent applications**.
 
----
-
-## What I’m Exploring
-
-- 🎓 Did MS in Computer Science at Iowa State
-- 🧪 Played with testing automation (Selenium, Playwright) 
-- 🔐 Dived into security and encryption stuff
-- 🌐 Built web apps with React, Angular, TypeScript
-- ☁️ Got into Spring Boot, microservices, cloud stuff
-- 🤖 Started messing with robotics and motion control
-- 🧠 Now playing with AI chatbots and LLMs
-- 📚 Also have an IEEE publication on cryptography
+I enjoy working across **Java backend engineering, cloud systems, robotics, and AI-driven applications** — learning by building real projects.
 
 ---
 
-## Projects I Actually Built
+## 🚀 Current Focus
 
-**🥊 Real-Steel Humanoid Robot** - Got into robotics during my MS and tried making a humanoid robot that could mimic human movements. Used camera feeds to track poses, then figured out how to control 14 joints to replicate those movements in real-time. It was pretty cool seeing the physics simulation actually work.
-
-**🔐 Crypto-Hash** - Went deep into security and built an encryption system using SHA-256, RSA, and AES. Got published in IEEE for this, which was pretty neat. Basically exploring how to keep data actually secure with different layers of encryption.
-
-**🧠 Augmented Reality** - Wanted to try AR in the browser without needing an app. Built stuff with React and Three.js to place 3D models in real scenes using WebXR. Started thinking about how this could be useful for learning and educational stuff.
-
-**🤖 ChatBot** - Got interested in AI models and built an enterprise chatbot using Spring Boot with Spring AI. Integrated HuggingFace models to actually chat with people. Learned a lot about how to plug AI into real applications.
-
-**🌐 Cloud-Native Enterprise App** - Built a proper scalable backend with Spring Boot and PostgreSQL. Learned about microservices, containers, and making things work in the cloud. Got to understand how enterprise systems actually run.
-
-**🌐 Flight-Tracking System** - Earlier project where I built a console Java app for booking flights. Learned about how to structure systems, databases, and handle real-world workflows like searching and reserving stuff.
-
-**🔗 URL Shortener** - One of my first web projects. Built a simple Flask app that takes long URLs and shortens them. Learned about databases with SQLite and how web basics actually work.
-
-**🔐 LTTS & MINI Projects** - Early low-level stuff with C. Learning fundamentals of how systems actually work underneath all the high-level frameworks.
+- Java backend engineering (Spring Boot, distributed systems)
+- Cloud native systems and microservices
+- Event driven architectures
+- AI powered applications
+- Robotics and motion control systems
 
 ---
 
-## 📫 Let's Connect
+## 🛠 Tech Stack
+
+**Backend**
+Java, Spring Boot, REST APIs, Microservices, Kafka
+
+**Cloud & Infrastructure**
+AWS, Docker, Kubernetes, CI/CD
+
+**Frontend**
+React, Angular, TypeScript
+
+**Data & Messaging**
+PostgreSQL, MongoDB, Redis, Kafka
+
+**AI & Robotics**
+Python, OpenCV, MediaPipe, MuJoCo
+
+---
+
+## 📌 Featured Projects
+
+### 🥊 Real-Steel Humanoid Robot
+Built a motion retargeting system that converts **human pose data into robotic joint control** for a 14-DOF humanoid robot using computer vision and inverse kinematics.
+
+Tech: Python, OpenCV, MediaPipe, MuJoCo
+
+---
+
+### 🔐 Crypto-Hash (IEEE Publication)
+Designed a **multi layer encryption system** combining SHA-256, RSA, and AES to strengthen data security.  
+Published research in **IEEE** exploring secure cryptographic architectures.
+
+---
+
+### 🤖 Enterprise AI Chatbot
+Developed an enterprise chatbot using **Spring Boot and Spring AI**, integrating LLM models to build conversational applications.
+
+---
+
+### ☁️ Cloud Native Enterprise Platform
+Built a scalable backend platform using **Spring Boot microservices, PostgreSQL, and containerized deployment** to understand modern enterprise architecture.
+
+---
+
+### 🌐 WebXR Augmented Reality
+Created browser based AR experiences using **React and Three.js**, enabling real world interaction with 3D models without native apps.
+
+---
+
+## 📫 Connect
 
 📧 Email: krishnagopal596@gmail.com  
-LinkedIn: [krishna-gopal-madhavaram  ](https://www.linkedin.com/in/krishna-gopal-madhavaram-38485a218/)
-Portfolio: krishnagopal596.github.io/Linkedin-Portfolio/
+🔗 LinkedIn:  
+https://www.linkedin.com/in/krishna-gopal-madhavaram-38485a218/
 
----
+🌐 Portfolio  
+https://krishnagopal596.github.io/Linkedin-Portfolio/
