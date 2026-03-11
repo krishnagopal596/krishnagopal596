@@ -8,7 +8,6 @@ I enjoy working across **Java backend engineering, cloud systems, robotics, and 
 
 ## 🚀 Current Focus
 
-- Java backend engineering (Spring Boot, distributed systems)
 - Cloud native systems and microservices
 - Event driven architectures
 - AI powered applications
@@ -67,9 +66,4 @@ Created browser based AR experiences using **React and Three.js**, enabling real
 
 ## 📫 Connect
 
-📧 Email: krishnagopal596@gmail.com  
-🔗 LinkedIn:  
-https://www.linkedin.com/in/krishna-gopal-madhavaram-38485a218/
-
-🌐 Portfolio  
-https://krishnagopal596.github.io/Linkedin-Portfolio/
+📧 Email: krishna.madhavaram789@gmail.com
